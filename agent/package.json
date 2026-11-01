@@ -1,0 +1,22 @@
+{
+  "name": "pocketforge-agent",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight Android Termux & Linux execution agent for PocketForge AI",
+  "main": "pocketforge-agent.js",
+  "bin": {
+    "pocketforge-agent": "./pocketforge-agent.js"
+  },
+  "scripts": {
+    "start": "node pocketforge-agent.js",
+    "test": "node test-agent.js"
+  },
+  "keywords": [
+    "pocketforge",
+    "termux",
+    "android",
+    "local-agent",
+    "dev-server"
+  ],
+  "author": "PocketForge AI Core Team",
+  "license": "MIT"
+}
