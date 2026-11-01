@@ -154,5 +154,8 @@ In the PocketForge web app, navigate to **Settings** or **Terminal**, input your
 
 ## 📄 License
 Released under the permissive [MIT License](LICENSE). Built for the global developer community.
-#   P O C K E T F O R G E - A I  
+#   P O C K E T F O R G E - A I 
  
+# Info
+- Created by Xtremerpie
+- idea to make moble phone self sufficient to make project by own
