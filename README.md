@@ -1,6 +1,6 @@
 # ⚡ POCKETFORGE AI
 
- **Your phone. Your code. Your own development universe.**
+**Your phone. Your code. Your own development universe.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Android Termux](https://img.shields.io/badge/Platform-Android%20Termux%20%7C%20Linux%20Mint-green.svg)](#termux-agent)
@@ -160,4 +160,3 @@ Released under the permissive [MIT License](LICENSE). Built for the global devel
 - idea to make moble phone self sufficient to make project by own
 
 #   P O C K E T F O R G E - A I 
- 
